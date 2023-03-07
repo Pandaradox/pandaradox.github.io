@@ -1,6 +1,6 @@
 POST https://slack.com/api/chat.postMessage
 Content-type: application/json
-Authorization: Bearer xoxb-1053479381287-4923009195777-GJUS4X3poeMlZ9eWUeuFpcPy
+Authorization: Bearer xoxb-your-token
 {
   "channel": "G013VCT299R",
   "text": "BRUMMUS :tada:"
