@@ -1,5 +1,3 @@
-POST https://slack.com/api/chat.postMessage
-Content-type: application/json
 {
   "channel": "U012068G93L",
   "text": "BRUMMUS :tada:"
