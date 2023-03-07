@@ -1,6 +1,5 @@
 {
-  "response_type": "in_channel",
-  	"blocks": [
+	"blocks": [
 		{
 			"type": "section",
 			"text": {
